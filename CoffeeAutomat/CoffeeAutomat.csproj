@@ -52,6 +52,7 @@
   <ItemGroup>
     <Content Include="FundBalance.txt" />
     <Content Include="PrvPurch.txt" />
+    <Content Include="Stocks.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
